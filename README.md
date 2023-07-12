@@ -1,2 +1,4 @@
-# Charts in ReactJS
+# using Recharts
+ charting library built on React components
+ 
  
